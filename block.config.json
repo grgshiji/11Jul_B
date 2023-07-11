@@ -2,8 +2,8 @@
   "name": "11Jul_B",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/11Jul_B.git",
+    "ssh": "git@github.com:grgshiji/11Jul_B.git",
     "branch": "block_11Jul_B"
   },
   "dependencies": {
